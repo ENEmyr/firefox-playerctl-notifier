@@ -2,7 +2,7 @@
 The script to automatically send a notification when has some event occurs to firefox media player
 
 ![](https://i.imgur.com/OLSU3mJ.png) 
-## Dependency
+## Dependencies
 - [playerctl](https://archlinux.org/packages/community/x86_64/playerctl/)
 - [libnotify](https://archlinux.org/packages/extra/x86_64/libnotify/)
 - [dunst](https://archlinux.org/packages/community/x86_64/dunst/)

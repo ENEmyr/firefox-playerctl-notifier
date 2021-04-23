@@ -3,9 +3,9 @@ The script to automatically send a notification when has some event occurs to fi
 
 ![](https://i.imgur.com/OLSU3mJ.png) 
 ## Dependency
-- ![playerctl](https://archlinux.org/packages/community/x86_64/playerctl/)
-- ![libnotify](https://archlinux.org/packages/extra/x86_64/libnotify/)
-- ![dunst](https://archlinux.org/packages/community/x86_64/dunst/)
+- [playerctl](https://archlinux.org/packages/community/x86_64/playerctl/)
+- [libnotify](https://archlinux.org/packages/extra/x86_64/libnotify/)
+- [dunst](https://archlinux.org/packages/community/x86_64/dunst/)
 
 ## Install
 - Symlink it to /usr/bin/
